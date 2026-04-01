@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 ```text
 🏢 Working at        Liebre AI
@@ -23,7 +23,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## AI Usage
+## 🤖 AI Usage
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
