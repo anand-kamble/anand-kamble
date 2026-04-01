@@ -15,11 +15,11 @@
 ## 👋 About Me
 
 ```text
-🏢 Working at        Liebre
-📍 Based in          San Francisco
-🎓 MS Computational Science — Florida State University
-🌐 Website           anand-kamble.github.io
-💼 Open to           Collaboration & new opportunities
+🏢 Working at   Liebre
+📍 Based in     San Francisco
+🎓 Education    MS Computational Science, Florida State University
+🌐 Website      anand-kamble.github.io
+💼 Open to      Collaboration & new opportunities
 ```
 
 ---
