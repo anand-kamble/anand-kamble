@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Kamble&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Building+AI+Infrastructure+%40+Liebre+AI;MCP+Server+Developer;Python+%C2%B7+TypeScript+%C2%B7+Rust;San+Francisco+%F0%9F%8C%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Liebre+AI;Python+%C2%B7+TypeScript+%C2%B7+Rust;San+Francisco+%F0%9F%8C%89)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/anand-kamble?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/anand-kamble?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/anand-kamble?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/anand-kamble?tab=repositories)
@@ -17,7 +17,6 @@
 ```text
 🏢 Working at        Liebre AI
 📍 Based in          San Francisco
-🔭 Building          AI infrastructure & MCP servers
 🌐 Website           anand-kamble.github.io
 💼 Open to           Collaboration & new opportunities
 ```
@@ -39,20 +38,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![mcp-instagram](https://github-readme-stats.vercel.app/api/pin/?username=anand-kamble&repo=mcp-instagram&theme=tokyonight&hide_border=true)](https://github.com/anand-kamble/mcp-instagram)
-[![x-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=anand-kamble&repo=x-algorithm&theme=tokyonight&hide_border=true)](https://github.com/anand-kamble/x-algorithm)
-
-[![init8](https://github-readme-stats.vercel.app/api/pin/?username=anand-kamble&repo=init8&theme=tokyonight&hide_border=true)](https://github.com/anand-kamble/init8)
-[![iwslt2026-instruction-following](https://github-readme-stats.vercel.app/api/pin/?username=anand-kamble&repo=iwslt2026-instruction-following&theme=tokyonight&hide_border=true)](https://github.com/anand-kamble/iwslt2026-instruction-following)
 
 </div>
 
@@ -96,14 +81,14 @@
 
 ---
 
-## Contribution Snake
+## 3D Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3d-contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -126,6 +111,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-*Building the infrastructure that powers AI agents.*
+*Turning ideas into code, one commit at a time.*
 
 </div>
