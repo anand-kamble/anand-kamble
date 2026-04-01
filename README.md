@@ -18,7 +18,6 @@
 🏢 Working at        Liebre
 📍 Based in          San Francisco
 🎓 MS Computational Science — Florida State University
-📄 4 publications · 24 citations
 🌐 Website           anand-kamble.github.io
 💼 Open to           Collaboration & new opportunities
 ```
