@@ -47,15 +47,33 @@
 
 <div align="center">
 
-<a href="https://github.com/anand-kamble">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand-kamble&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/anand-kamble">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kamble&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-<a href="https://github.com/anand-kamble">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kamble&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/default/0-profile-details.svg" />
+  <img alt="Profile Details" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img alt="Repos per Language" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img alt="Most Commit Language" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/default/3-stats.svg" />
+  <img alt="Stats" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/default/4-productive-time.svg" />
+  <img alt="Productive Time" src="https://raw.githubusercontent.com/anand-kamble/anand-kamble/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</picture>
 
 </div>
 
