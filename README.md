@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Anand.&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Anand.%20🫡&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Liebre+AI;Python+%C2%B7+TypeScript+%C2%B7+Rust;San+Francisco+%F0%9F%8C%89)](https://git.io/typing-svg)
 
